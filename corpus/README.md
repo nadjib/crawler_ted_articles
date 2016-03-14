@@ -1,0 +1,1 @@
+This directory will contain the files of articles
